@@ -26,6 +26,6 @@
 
 Resolver en R o Pyhton.
 
-> Envió de la solución : Enviar la solución como adjunto al correo: datathonurp@gmail.com mencionando el nombre de tu equipo
+Envió de la solución : Enviar la solución como adjunto al correo: [datathonurp@gmail.com](mailto:datathonurp@gmail.com) mencionando el nombre de tu equipo
 
 
