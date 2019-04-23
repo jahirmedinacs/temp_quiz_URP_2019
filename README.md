@@ -28,7 +28,7 @@ Los puntos de inicio y fin deben ser distintos, pero debe visitar cada ubicació
 
 Distancias: [Link](./problema.html)
 
-Ruta: [rutas.txt](https://drive.google.com/file/d/16k_3DTmSFcahviQRVHxPcMCkOe2UmfIL/view?usp\u003dsharing)
+Ruta: [rutas.txt](./rutas.txt)
 
 Resolver en R o Pyhton.
 
