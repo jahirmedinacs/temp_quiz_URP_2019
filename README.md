@@ -1,5 +1,8 @@
 # Cuestionario I Datathon URP 2019
 
+[Descargar Version Offline](./sources/quiz_URP_2019.zip)
+[Ver Contenido de la version Offline](./sources)
+
  1. ¿Cuáles son las etapas que tiene un proyecto de modelos predictivos? Describa brevemente cada etapa.
 
  2. Qué métodos de selección de variables conoces. Explique las mencionadas.
