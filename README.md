@@ -22,13 +22,7 @@
 
 ## Reto Programación:
 
-Se debe entregar encomiendas en varias ubicaciones del mundo, teniendo para ello un mapa con un punto por ubicacion exacta, y las respectivas distancias entre cada punto.
-
-Los puntos de inicio y fin deben ser distintos, pero debe visitar cada ubicación exactamente una vez. ¿Cuál es la distancia más corta que puede recorrer para lograr esto? Por ejemplo, dadas las siguientes distancias:
-
-Distancias: [Link](./problema.html)
-
-Ruta: [rutas.txt](./rutas.txt)
+[Reto](./problema.html)
 
 Resolver en R o Pyhton.
 
